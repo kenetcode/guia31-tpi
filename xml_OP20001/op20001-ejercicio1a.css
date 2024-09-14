@@ -1,0 +1,29 @@
+/* Estilos para op20001-ejercicio1a.xml */
+fichero {
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #4CAF50;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+
+ficha {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #2196F3;
+    background-color: #e3f2fd;
+}
+
+ficha > * {
+    display: block;
+    margin: 5px 0;
+    color: #333;
+    font-weight: bold;
+}
+
+telefono, email, website {
+    color: #555;
+    font-style: italic;
+}

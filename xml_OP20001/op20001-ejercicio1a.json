@@ -1,0 +1,19 @@
+{
+    "fichero": {
+      "ficha": [
+        {
+          "nombre": "Antonio",
+          "apellido": "Barbero",
+          "direccion": "Calle de Los Andes, 45"
+        },
+        {
+          "nombre": "Kenet",
+          "apellido": "Ortiz",
+          "direccion": "San Salvador, San Salvador",
+          "telefono": "+503 7788 9976",
+          "email": "ortiz.ken@example.com",
+          "website": "http://www.kenortiz.com"
+        }
+      ]
+    }
+  }

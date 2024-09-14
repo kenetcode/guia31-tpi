@@ -1,0 +1,35 @@
+/* Estilos para op20001-ejercicio2a.xml */
+pais {
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #673AB7;
+    background-color: #ede7f6;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+departamento {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #3F51B5;
+    background-color: #e8eaf6;
+}
+
+cabecera, habitantes, altura {
+    display: block;
+    margin: 5px 0;
+    color: #333;
+    font-weight: bold;
+}
+
+cabecera {
+    font-size: 1.2em;
+    color: #1A237E;
+}
+
+habitantes, altura {
+    font-size: 1em;
+    color: #303F9F;
+    font-style: italic;
+}

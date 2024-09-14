@@ -1,0 +1,22 @@
+{
+  "pais": {
+    "idiomas": "",
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM"
+      },
+      {
+        "cabecera": "Santa Ana",
+        "habitantes": "600,000",
+        "altura": "665 MSNM"
+      },
+      {
+        "cabecera": "Santa Tecla",
+        "habitantes": "400,000",
+        "altura": "920 MSNM"
+      }
+    ]
+  }
+}

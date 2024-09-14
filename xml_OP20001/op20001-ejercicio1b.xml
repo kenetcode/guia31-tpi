@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="op20001-ejercicio1b.css" ?>
+<!-- op20001-ejercicio1b.xml  OP20001 -->
+<fichero>
+    <ficha id="1" fechaingreso="1/11/2012">
+        <nombre>Antonio</nombre>
+        <apellido>Barbero</apellido>
+        <direccion>Calle de Los Andes, 45</direccion>
+    </ficha>
+    <ficha id="2" fechaingreso="15/03/2024">
+        <nombre>Kenet</nombre>
+        <apellido>Ortiz</apellido>
+        <direccion>San Salvador, San Salvador</direccion>
+        <telefono>+503 7788 9976</telefono>
+        <email>ortiz.ken@example.com</email>
+        <website>http://www.kenortiz.com</website>
+    </ficha>
+    <ficha id="3" fechaingreso="20/04/2024">
+        <nombre>Laura</nombre>
+        <apellido>Mendez</apellido>
+        <direccion>Santa Tecla, La Libertad</direccion>
+        <telefono>+503 1234 5678</telefono>
+        <email>laura.martinez@example.com</email>
+        <website>http://www.lauramartinez.com</website>
+        <documentacion dui="12345678-9" isss="987654321" afp="123456789012"></documentacion>
+    </ficha>
+</fichero>

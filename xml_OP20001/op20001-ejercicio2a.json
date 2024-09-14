@@ -1,0 +1,27 @@
+{
+    "pais": {
+      "monedas": {
+        "moneda": [
+          "USD",
+          "BTC"
+        ]
+      },
+      "idiomas": {
+        "oficial": "Español",
+        "autoctono": "Nahuat",
+        "segundo": "Inglés"
+      },
+      "departamento": [
+        {
+          "cabecera": "San Salvador",
+          "habitantes": "1,700,000",
+          "altura": "545 MSNM"
+        },
+        {
+          "cabecera": "Santa Ana",
+          "habitantes": "600,000",
+          "altura": "665 MSNM"
+        }
+      ]
+    }
+  }

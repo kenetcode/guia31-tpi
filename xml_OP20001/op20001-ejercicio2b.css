@@ -1,0 +1,43 @@
+/* Estilos para op20001-ejercicio2b.xml */
+pais {
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #E91E63;
+    background-color: #fce4ec;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+departamento {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #9C27B0;
+    background-color: #f3e5f5;
+    position: relative;
+}
+
+departamento::before {
+    content: attr(nombre) " (Área Territorial: " attr(area_territorial) ")";
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+cabecera, habitantes, altura {
+    display: block;
+    margin: 5px 0;
+    color: #333;
+    font-weight: bold;
+}
+
+cabecera {
+    font-size: 1.2em;
+    color: #880E4F;
+}
+
+habitantes, altura {
+    font-size: 1em;
+    color: #6A1B9A;
+    font-style: italic;
+}
